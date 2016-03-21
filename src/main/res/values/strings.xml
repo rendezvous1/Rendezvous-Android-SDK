@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rendezvous SDK</string>
+    <string name="device_type">Phone</string>
+</resources>
